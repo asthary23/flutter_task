@@ -1,0 +1,2 @@
+OPENAI_API_KEY="sk-proj-f0JVlZvwHTCVSnGNelZBT3BlbkFJlAZuk7iikjAwCH9bGWuO"
+DEBUG=true
