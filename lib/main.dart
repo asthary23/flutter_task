@@ -100,7 +100,3 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-
-// https://github.com/asthary23/flutter_task.git
-
-// git remote add origin https://github.com/asthary23/flutter_task.git
